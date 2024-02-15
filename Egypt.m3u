@@ -1,0 +1,97 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Abu Dhabi.png",Abu Dhabi
+http://teledunet.com:8080/amanico/bhurpoor/812
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Ahly TV.png",Al Ahly TV
+http://teledunet.com:8080/amanico/bhurpoor/239
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Hayat.png",Al Hayat
+http://teledunet.com:8080/amanico/bhurpoor/319
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Hayat 2.png",Al Hayat 2
+http://teledunet.com:8080/amanico/bhurpoor/363
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Kahera Wal Nas.png",Al Kahera Wal Nas
+http://teledunet.com:8080/amanico/bhurpoor/338
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Kahera Wal Nas 2.png",Al Kahera Wal Nas 2
+http://teledunet.com:8080/amanico/bhurpoor/339
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Masriyah.png",Al Masriyah
+http://teledunet.com:8080/amanico/bhurpoor/335
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Mehwar.png",Al Mehwar
+http://teledunet.com:8080/amanico/bhurpoor/327
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Nahar.png",Al Nahar
+http://teledunet.com:8080/amanico/bhurpoor/340
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Nahar Drama.png",Al Nahar Drama
+http://teledunet.com:8080/amanico/bhurpoor/341
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Oula.png",Al Oula
+http://teledunet.com:8080/amanico/bhurpoor/336
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Quran Al Karim.png",Al Quran Al Karim
+http://teledunet.com:8080/amanico/bhurpoor/24
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Rahma.png",Al Rahma
+http://teledunet.com:8080/amanico/bhurpoor/32
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Resalah.png",Al Resalah
+http://teledunet.com:8080/amanico/bhurpoor/33
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Thaniya.png",Al Thaniya
+http://teledunet.com:8080/amanico/bhurpoor/337
+#EXTINF:-1 tvg-logo="..\Channel\Logo\CBC.png",CBC
+http://teledunet.com:8080/amanico/bhurpoor/318
+#EXTINF:-1 tvg-logo="..\Channel\Logo\CBC Drama.png",CBC Drama
+http://teledunet.com:8080/amanico/bhurpoor/330
+#EXTINF:-1 tvg-logo="..\Channel\Logo\CBC Extra.png",CBC Extra
+http://teledunet.com:8080/amanico/bhurpoor/329
+#EXTINF:-1 tvg-logo="..\Channel\Logo\CBC Sofra.png",CBC Sofra
+http://teledunet.com:8080/amanico/bhurpoor/331
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Cima.png",Cima
+http://teledunet.com:8080/amanico/bhurpoor/348
+#EXTINF:-1 tvg-logo="..\Channel\Logo\dmc.png",DMC
+http://teledunet.com:8080/amanico/bhurpoor/317
+#EXTINF:-1 tvg-logo="..\Channel\Logo\dmc drama.png",DMC Drama
+http://teledunet.com:8080/amanico/bhurpoor/326
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Dubai.png",Dubai
+http://teledunet.com:8080/amanico/bhurpoor/809
+#EXTINF:-1 tvg-logo="..\Channel\Logo\el moled.png",El Sharq
+http://teledunet.com:8080/amanico/bhurpoor/13
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Iqra.png",Iqra
+http://teledunet.com:8080/amanico/bhurpoor/27
+#EXTINF:-1 tvg-logo="..\Channel\Logo\MBC 1.png",MBC 1
+http://teledunet.com:8080/amanico/bhurpoor/563
+#EXTINF:-1 tvg-logo="..\Channel\Logo\MBC Masr.png",MBC Masr
+http://teledunet.com:8080/amanico/bhurpoor/573
+#EXTINF:-1 tvg-logo="..\Channel\Logo\MBC Masr 2.png",MBC Masr 2
+http://teledunet.com:8080/amanico/bhurpoor/574
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Melody Classic.png",Melody Classic
+http://teledunet.com:8080/amanico/bhurpoor/350
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Nat Geo Ad.png",Nat Geo Ad
+http://teledunet.com:8080/amanico/bhurpoor/640
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Nile Cinema.png",Nile Cinema
+http://teledunet.com:8080/amanico/bhurpoor/351
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Nile Comedy.png",Nile Comedy
+http://teledunet.com:8080/amanico/bhurpoor/352
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Nile Drama.png",Nile Drama
+http://teledunet.com:8080/amanico/bhurpoor/353
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Nile News.png",Nile News
+http://teledunet.com:8080/amanico/bhurpoor/354
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Nile Sport.png",Nile Sport
+http://teledunet.com:8080/amanico/bhurpoor/240
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Nile TV.png",Nile Tv
+http://teledunet.com:8080/amanico/bhurpoor/355
+#EXTINF:-1 tvg-logo="..\Channel\Logo\On E.png",ON E TV
+http://teledunet.com:8080/amanico/bhurpoor/320
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Panorama Drama.png",Panorama Drama
+http://teledunet.com:8080/amanico/bhurpoor/359
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Panorama Drama 2.png",Panorama Drama 2
+http://teledunet.com:8080/amanico/bhurpoor/360
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Panorama Food.png",Panorama Food
+http://teledunet.com:8080/amanico/bhurpoor/358
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Rotana Aflam.png",Rotana Aflam
+http://teledunet.com:8080/amanico/bhurpoor/593
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Rotana Cinema.png",Rotana Cinema
+http://teledunet.com:8080/amanico/bhurpoor/591
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Rotana Classic.png",Rotana Classic
+http://teledunet.com:8080/amanico/bhurpoor/598
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Sada al Balad.png",Sada Al Balad
+http://teledunet.com:8080/amanico/bhurpoor/343
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Sada el Balad Drama.png",Sada el Balad Drama
+http://teledunet.com:8080/amanico/bhurpoor/344
+#EXTINF:-1,Star
+http://teledunet.com:8080/amanico/bhurpoor/366
+#EXTINF:-1 tvg-logo="..\Channel\Logo\ten.png",TeN
+http://teledunet.com:8080/amanico/bhurpoor/342
+#EXTINF:-1 tvg-logo="..\Channel\Logo\Al Mehwar.png",Al Mekamelen
+http://teledunet.com:8080/amanico/bhurpoor/10
