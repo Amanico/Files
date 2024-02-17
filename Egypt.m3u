@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="EGYPT" tvg-name="ALHAYAT EGYPT" tvg-logo="http://next.teledunet.com/logos/alhayat.jpg" ,ALHAYAT EGYPT
+#EXTINF:-1 group-title="EGYPT" tvg-name="ALHAYAT-Mo EGYPT" tvg-logo="http://next.teledunet.com/logos/alhayat.jpg" ,ALHAYAT EGYPT
 http://ustv.store:8080/amanico/bhurpoor/332
 #EXTINF:-1 group-title="EGYPT" tvg-name="ALHAYAT EGYPT HD" tvg-logo="http://next.teledunet.com/logos/alhayat.jpg" ,ALHAYAT EGYPT HD
 http://ustv.store:8080/amanico/bhurpoor/319
