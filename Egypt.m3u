@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="EGYPT" tvg-name="ALHAYAT EGYPT" tvg-logo="http://next.teledunet.com/logos/alhayat.jpg" ,ALHAYAT EGYPT
 http://teledunet.com:8080/amanico/bhurpoor/332
-#EXTINF:-1 group-title="EGYPT" tvg-name="Makkah Live 1" tvg-logo="http://next.teledunet.com/logos/alhayat.jpg" ,MAKKAH LIVE 1
-https://youtu.be/K5xvuvRQkBs
 #EXTINF:-1 group-title="EGYPT" tvg-name="ALHAYAT EGYPT HD" tvg-logo="http://next.teledunet.com/logos/alhayat.jpg" ,ALHAYAT EGYPT HD
 http://teledunet.com:8080/amanico/bhurpoor/319
 #EXTINF:-1 group-title="EGYPT" tvg-name="ALHAYAT MUSALSALAT" tvg-logo="http://next.teledunet.com/logos/h_musalsalat.png" ,ALHAYAT MUSALSALAT
