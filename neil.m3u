@@ -1928,3 +1928,14 @@ http://tvsmart.store:8080/amanico/bhurpoor/59476
 #EXTINF:-1 tvg-id="ext" tvg-name="RSI LA 2" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rsila2.png" group-title="ITALIA [VIP]",RSI LA 2
 http://tvsmart.store:8080/amanico/bhurpoor/59477
 
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" live="1" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPORTS.png" group-title="USA SPORTS [VIP]",TNT SPORTS 1
+http://tvsmart.store:8080/amanico/bhurpoor/70974
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" live="1" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPORTS.png" group-title="USA SPORTS [VIP]",TNT SPORTS 2
+http://tvsmart.store:8080/amanico/bhurpoor/70975
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" live="1" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPORTS.png" group-title="USA SPORTS [VIP]",TNT SPORTS 3
+http://tvsmart.store:8080/amanico/bhurpoor/70976
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" live="1" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPORTS.png" group-title="USA SPORTS [VIP]",TNT SPORTS 4
+http://tvsmart.store:8080/amanico/bhurpoor/70977
