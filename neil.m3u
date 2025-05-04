@@ -1883,51 +1883,6 @@ http://tvsmart.store:8080/amanico/bhurpoor/9961309
 #EXTINF:-1 tvg-id="ext" tvg-name="TVSN SHOPPING (NZ)" tvg-logo="http://103.176.90.118/picons/logos/TVSN-SHOPPING.jpeg" group-title="AUSTRALIA",TVSN SHOPPING (NZ)
 http://tvsmart.store:8080/amanico/bhurpoor/9961310
 
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI 1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rai1hd.png" group-title="ITALIA [VIP]",RAI 1
-http://tvsmart.store:8080/amanico/bhurpoor/59452
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI 2" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rai2hd.png" group-title="ITALIA [VIP]",RAI 2
-http://tvsmart.store:8080/amanico/bhurpoor/59453
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI 3" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rai3hd.png" group-title="ITALIA [VIP]",RAI 3
-http://tvsmart.store:8080/amanico/bhurpoor/59454
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI 4" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rai4hd.png" group-title="ITALIA [VIP]",RAI 4
-http://tvsmart.store:8080/amanico/bhurpoor/59455
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI 5" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rai5.png" group-title="ITALIA [VIP]",RAI 5
-http://tvsmart.store:8080/amanico/bhurpoor/59456
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI GULP" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raigulp.png" group-title="ITALIA [VIP]",RAI GULP
-http://tvsmart.store:8080/amanico/bhurpoor/59457
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI MOVIE" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raimoviehd.png" group-title="ITALIA [VIP]",RAI MOVIE
-http://tvsmart.store:8080/amanico/bhurpoor/59524
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI NEWS 24 ITALIA [VIP]" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rainews24hd.png" group-title="ITALIA [VIP]",RAI NEWS 24 ITALIA [VIP]
-http://tvsmart.store:8080/amanico/bhurpoor/59462
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI PREMIUM" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raipremiumhd.png" group-title="ITALIA [VIP]",RAI PREMIUM
-http://tvsmart.store:8080/amanico/bhurpoor/59459
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI SCOULA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiscuola.png" group-title="ITALIA [VIP]",RAI SCOULA
-http://tvsmart.store:8080/amanico/bhurpoor/59461
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI SPORTS +" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raisport.png" group-title="ITALIA [VIP]",RAI SPORTS +
-http://tvsmart.store:8080/amanico/bhurpoor/59532
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI STORIA" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raistoria.png" group-title="ITALIA [VIP]",RAI STORIA
-http://tvsmart.store:8080/amanico/bhurpoor/59460
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RAI YOYO" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/raiyoyo.png" group-title="ITALIA [VIP]",RAI YOYO
-http://tvsmart.store:8080/amanico/bhurpoor/59458
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RSI LA 1" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rsila1.png" group-title="ITALIA [VIP]",RSI LA 1
-http://tvsmart.store:8080/amanico/bhurpoor/59476
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RSI LA 2" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/rsila2.png" group-title="ITALIA [VIP]",RSI LA 2
-http://tvsmart.store:8080/amanico/bhurpoor/59477
-
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" live="1" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPORTS.png" group-title="USA SPORTS [VIP]",TNT SPORTS 1
 http://tvsmart.store:8080/amanico/bhurpoor/70974
 
