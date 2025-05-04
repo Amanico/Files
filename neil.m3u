@@ -1946,12 +1946,6 @@ http://tvsmart.store:8080/amanico/bhurpoor/70939
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQ6BSaej0jJWHYFCJ-4dJYS_47qksmdZGuOk3bLW4Zl3En=s900-c-k-c0x00ffffff-no-rj" group-title="USA SPORTS [VIP]",ESPN 2
 http://tvsmart.store:8080/amanico/bhurpoor/700939
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 AFRICA [VIP]" live="1" tvg-logo="http://logo.protv.cc/picons/logos/espnhd.png" group-title="AFRICA [VIP]",ESPN 1 AFRICA [VIP]
-http://tvsmart.store:8080/amanico/bhurpoor/9951049
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 AFRICA [VIP]" live="1" tvg-logo="http://logo.protv.cc/picons/logos/espn2.png" group-title="AFRICA [VIP]",ESPN 2 AFRICA [VIP]
-http://tvsmart.store:8080/amanico/bhurpoor/9950305
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN CARIBBEAN" live="1" tvg-logo="http://logo.protv.cc/picons/logos/espn.png" group-title="CARAIBES [VIP]",ESPN CARIBBEAN
 http://tvsmart.store:8080/amanico/bhurpoor/9960234
 
