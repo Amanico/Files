@@ -1939,3 +1939,9 @@ http://tvsmart.store:8080/amanico/bhurpoor/70976
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" live="1" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPORTS.png" group-title="USA SPORTS [VIP]",TNT SPORTS 4
 http://tvsmart.store:8080/amanico/bhurpoor/70977
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQ6BSaej0jJWHYFCJ-4dJYS_47qksmdZGuOk3bLW4Zl3En=s900-c-k-c0x00ffffff-no-rj" group-title="USA SPORTS [VIP]",ESPN 1
+http://tvsmart.store:8080/amanico/bhurpoor/70939
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQ6BSaej0jJWHYFCJ-4dJYS_47qksmdZGuOk3bLW4Zl3En=s900-c-k-c0x00ffffff-no-rj" group-title="USA SPORTS [VIP]",ESPN 2
+http://tvsmart.store:8080/amanico/bhurpoor/700939
