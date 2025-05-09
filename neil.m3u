@@ -1906,3 +1906,6 @@ http://tvsmart.store:8080/amanico/bhurpoor/9960234
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CARIBBEAN" live="1" tvg-logo="http://logo.protv.cc/picons/logos/laz.espn2.png" group-title="CARAIBES [VIP]",ESPN 2 CARIBBEAN
 http://tvsmart.store:8080/amanico/bhurpoor/9960233
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT ULTIMATE" live="1" tvg-logo="http://logo.protv.cc/piconsnew/tntsports.png" group-title="USA SPORTS [VIP]",TNT ULTIMATE
+http://tvsmart.store:8080/amanico/bhurpoor/9957588
